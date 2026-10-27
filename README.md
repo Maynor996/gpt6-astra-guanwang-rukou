@@ -1,9 +1,10 @@
-# GPT6 Astra 官网入口怎么找
+# GPT6 Astra官网入口：在模型列表里找
 
 中文说明页关键词：**gpt6 astra官网入口**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-astra-guanwang-rukou/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：Astra入口在模型列表里找：步骤、防骗与软推荐路径。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
